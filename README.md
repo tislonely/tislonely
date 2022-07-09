@@ -1,6 +1,6 @@
-- ◼️ Hi, I’m @Tislonely, I'm a 20yo Web Development student
-- ◼️ I’m interested in learning and improving my back-end dev skills.
-- ◼️ How to reach me: lonelycube10@gmail.com
+- ◼️ Hi, I’m @tislonely, I'm a 20yo Web Development student
+- ◼️ I’m interested in learning and improving my web-full-stack developing skills.
+- ◼️ How to reach me: carlosgouveia.g@gmail.com
 
 <br>
 
